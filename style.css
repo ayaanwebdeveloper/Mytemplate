@@ -57,7 +57,10 @@ ul{
 .is3{
     width: 30%;
     margin-top: 20vh;
-    margin-left: 60vh;
+    margin-left: 5vh;
+}
+.is4{
+    margin-left: 30vh;
 }
 .oa{
     text-align: center;
